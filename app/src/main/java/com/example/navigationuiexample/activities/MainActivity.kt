@@ -38,6 +38,7 @@ class MainActivity : AppCompatActivity() {
                 }
             true
         }
+
        /* binding.mainToolbar.setNavigationOnClickListener {
             navController.navigate(HomeFragmentDirections.actionHomeFragmentToCategories())
 
